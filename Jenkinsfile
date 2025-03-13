@@ -5,7 +5,7 @@ pipeline {
         REPO_URL = 'https://github.com/Tiwari1801/PES1UG22CS047_JENKINS.git'  // Replace with your repository URL
         BRANCH = 'main' // Change as needed
         CPP_FILE = 'hello1.cpp'
-        EXECUTABLE = 'PES1UG22CS012-1'
+        EXECUTABLE = 'PES1UG22CS047_PIPELINE'
     }
 
     stages {
